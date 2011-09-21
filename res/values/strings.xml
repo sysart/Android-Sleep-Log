@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sleep Log</string>
+    <string name="submit">Submit</string>
+    <string name="spinner_title">Last night I slept...</string>
+    <string name="history_chart_title">Past 30 nights</string>
+    <string name="stats_weekly">Average sleep per weekday</string>
+</resources>
