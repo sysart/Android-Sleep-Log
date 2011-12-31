@@ -66,7 +66,7 @@ public class Enter extends Activity {
 
                 case MotionEvent.ACTION_DOWN: {
                     previousX = event.getX();
-                    previousY = event.getX();
+                    previousY = event.getY();
                     return true;
                 }
 
